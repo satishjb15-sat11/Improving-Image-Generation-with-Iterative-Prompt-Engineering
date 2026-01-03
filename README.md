@@ -32,9 +32,7 @@ Prompt v1
 Output Issues  
 - Unpredictable color, angle, background  
 - Generic style, may not suit intended use  
-- Low control over composition  
-
-*(Add screenshot of v1 output here)*  
+- Low control over composition   
 
  Iteration 2 – Add Visual Constraint
 
@@ -49,9 +47,7 @@ Improvements
 Remaining Issues  
 - Background still random  
 - Lacks environment context  
-- Composition not professional  
-
-*(Add screenshot of v2 output here)*  
+- Composition not professional    
 
 Iteration 3 – Final (Context + Environment + Quality)
 
@@ -65,9 +61,7 @@ Final Result
  Light blue BMW car  
  Professional racing track background  
  Realistic, sharp quality  
- Precise control over composition  
-
-(Add screenshot of v3 final output here)  
+ Precise control over composition    
 
  Key Learnings
 
